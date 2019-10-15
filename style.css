@@ -49,9 +49,11 @@ li {
     margin-left: 400px;
 }
 
+/*-------Image Description-------------*/
+
 #imagedesc{
     width: 100vw;
-    height: 2000px;
+    height: 1700px;
 }
 
 .left {float: left;}
@@ -67,16 +69,39 @@ li {
 #redinfo{
     margin-right: 600px;
     margin-top: 100px;
-    margin-bottom: 200px;
 }
+
 
 #Music{
     font-size: 1.42857em;
     color: #02385d;
 }
-#greeninfo{
-    margin-left: 300px;
+
+#greenphoto{
+    margin-right: 300px;
+    margin-top: 200px;
 }
+
 #greeninfo{
-    margin: 
+    margin-left: 600px;
+    margin-top: 200px;
+}
+
+
+#yellowimage{
+    margin-left: 400px;
+    margin-top: 200px;
+}
+
+#yellowinfo{
+    margin-right: 600px;
+    margin-top: 100px;
+}
+
+#Title{
+    font-size: 1.57143em;
+    font-family: Montserrat,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
 }
