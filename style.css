@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/*-------------Navbar---------*/
+
+li {
+    display: inline;
+    list-style-type: none;
+}
+
+#navbar {
+    background-color: white;
+    height: 150px;
+    width: 100vw;
+    list-style-type: none;
+}
