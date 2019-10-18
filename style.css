@@ -7,7 +7,6 @@
 /*-------------Navbar---------*/
 
 li {
-    display: inline;
     list-style-type: none;
 }
 
@@ -16,4 +15,241 @@ li {
     height: 150px;
     width: 100vw;
     list-style-type: none;
+}
+
+#body {
+    list-style-type: none;
+    font-family: Montserrat, sans-serif;
+}
+
+#header {
+    height: 25px;
+    width: 100vw;
+    background-color: #0c7bcf;
+    text-align: center;
+    color: white;
+    font-family: Montserrat, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#navbars {
+    display: inline;
+    margin-left: 100px;
+}
+
+#nav {
+    height: 100px;
+    width: 100vw;
+    float: left;
+    list-style-type: none;
+}
+
+#logo {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+#shop {
+    margin-left: 500px;
+}
+
+#buynow {
+    margin-left: 400px;
+}
+
+#review {
+    margin-left: 400px;
+}
+
+
+/*-------Image Description-------------*/
+
+#imagedesc {
+    width: 100vw;
+    height: 1700px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+#redimage {
+    margin-left: 400px;
+}
+
+#redinfo {
+    margin-right: 600px;
+    margin-top: 100px;
+}
+
+#Music {
+    font-size: 1.42857em;
+    color: #02385d;
+}
+
+#greenphoto {
+    margin-right: 300px;
+    margin-top: 200px;
+}
+
+#greeninfo {
+    margin-left: 600px;
+    margin-top: 200px;
+}
+
+#yellowimage {
+    margin-left: 400px;
+    margin-top: 200px;
+}
+
+#yellowinfo {
+    margin-right: 600px;
+    margin-top: 100px;
+}
+
+#Title {
+    font-size: 1.57143em;
+    font-family: Montserrat, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+}
+
+
+/*-----------------------------------Reviews----------------------------------*/
+
+#Reviews {
+    height: 600px;
+    width: 100vw;
+    display: inline-block;
+}
+
+#review1 {
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    padding-right: 10px;
+    padding-left: 300px;
+}
+
+#review2 {
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    padding-right: 10px;
+}
+
+#review3 {
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    padding-right: 10px;
+}
+
+#review4 {
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+}
+
+#earbuds {
+    height: 600px;
+    width: 100vw;
+    display: inline-block;
+}
+
+#blackearbud {
+    height: 250px;
+    width: 250px;
+    display: inline-block;
+    padding-left: 400px;
+}
+
+#blueearbud {
+    height: 250px;
+    width: 250px;
+    display: inline-block;
+}
+
+#rosegoldearbud {
+    height: 250px;
+    width: 250px;
+    display: inline-block;
+}
+
+#redearbud {
+    height: 250px;
+    width: 250px;
+    display: inline-block;
+}
+
+#earbud {
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #02385d;
+}
+
+#earbuddesc {
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #02385d;
+}
+
+#prefooter {
+    padding: 400px;
+}
+
+#footer {
+    background: #eaeaea;
+    height: 700px;
+    width: 100vw;
+}
+
+#searchbar {
+    border: #eaeaea;
+    color: grey;
+    padding-left: 300px;
+    padding-top: 50px;
+}
+
+#search {
+    background: white;
+    height: 40px;
+    width: 400px;
+    font-family: Montserrat, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: inline-block
+}
+
+#subscribe {
+    display: inline-block;
+    height: 40px;
+    width: 150px;
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+#product {
+    padding-top: 100px;
+    padding-left: 275px;
+}
+
+#footerlist {
+    display: inline;
+    margin-left: 200px;
+}
+
+#products {
+    margin-top: 20px;
 }
